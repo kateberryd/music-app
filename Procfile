@@ -1,1 +1,1 @@
-web: http-server ./ -p $PORT
+$ echo "web: node server.js" > Procfile
